@@ -14,12 +14,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to MarteX : http://localhost:${port}`);
-  console.log(`🔗 Powered by Martex`);
+  console.log(`🔗 Listening to MarteX Technology: http://localhost:${port}`);
+  console.log(`🔗 Powered by MarteX Technology`);
 });
 
 
-const statusMessages = ["Watching Martex","MarteX","MarteX","MarteX","Enjoy"];
+const statusMessages = ["Watching dms","?","?","?",":)"];
 
 
 let currentIndex = 0;
